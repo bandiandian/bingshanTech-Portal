@@ -38,7 +38,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/internet-plus.png) no-repeat center center;
+    /*background: url(../img/internet-plus.png) no-repeat center center;*/
     background-size: cover;
 }
 
@@ -531,4 +531,34 @@ margin-left: 20%;
 .box.first {margin-bottom: 30px;}
 #services .box_title { padding-bottom: 0px;}
 #services .row > div {margin-bottom: 30px;}
+}
+
+
+.icon-md {
+  font-size: 24px;
+  height: 140px;
+  width: 140px;
+  line-height: 68px;
+  color: #fff;
+  margin-right: 10px;
+  text-align: center;
+  display: inline-block;
+  margin-bottom: 10px;
+  }
+ 
+ .icon-serve2 {
+    background: url(../img/serve2.png) no-repeat 0px center;
+}
+
+ .icon-serve1 {
+    background: url(../img/serve1.png) no-repeat 0px center;
+}
+ .icon-serve3 {
+    background: url(../img/serve3.png) no-repeat 0px center;
+}
+ .icon-serve4 {
+    background: url(../img/serve4.png) no-repeat 0px center;
+}
+ .icon-serve5 {
+    background: url(../img/serve5.png) no-repeat 0px center;
 }
